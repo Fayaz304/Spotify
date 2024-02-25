@@ -1,0 +1,405 @@
+* {
+    margin: 0;
+    padding: 0;
+};
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.nav {
+    height: 7vh;
+    background-color: black;
+    width: 100vw;
+    display: flex;
+    color: white;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.logo {
+    width: 4vw;
+    height: 7vh;
+    background-size: cover;
+}
+
+
+.Home {
+    margin-left: 6.5vw;
+    margin-top: 0.4vh;
+}
+
+
+.About {
+    margin-left: 3.5vw;
+}
+
+
+.spotify {
+    position: absolute;
+    margin-left: 3.4vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    width: 70vw;
+    height: 74vh;
+    margin-top: 5vh;
+    margin-left: 14.5vw;
+}
+
+.bak-song {
+    width: 70vw;
+    height: 74vh;
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.line {
+    width: 80vw;
+    margin-left: 9.4vw;
+    margin-top: 3vh;
+}
+
+.song-list1 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    margin-top: 4vh;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 7.7vh;
+    margin-left: 1vw;
+}
+
+.music-img1 {
+    width: 2.15vw;
+    height: 4vh;
+    border-radius: 20px;
+    margin-left: 1vw;
+}
+
+.music-head {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 1.3vh;
+    margin-left: 1.6vw;
+    font-size: 1.7vw;
+}
+
+.imge-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6vw;
+    margin-left: 2.4vw;
+    font-weight: 800;
+}
+
+.song-time1 {
+    margin-left: 8.3vw;
+    margin-top: 0.4vh;
+}
+
+.song-time2 {
+    margin-left: 6.1vw;
+    margin-top: 0.4vh;
+}
+
+.song-time3 {
+    margin-left: 6.7vw;
+    margin-top: 0.4vh;
+}
+
+.song-time4 {
+    margin-left: 5.3vw;
+    margin-top: 0.4vh;
+}
+
+.song-time5 {
+    margin-left: 6.95vw;
+    margin-top: 0.4vh;
+}
+
+.song-time6 {
+    margin-left: 5.75vw;
+    margin-top: 0.4vh;
+}
+
+.song-time7 {
+    margin-left: 5.2vw;
+    margin-top: 0.4vh;
+}
+
+.song-time8 {
+    margin-left: 5.95vw;
+    margin-top: 0.4vh;
+}
+
+.song-time9 {
+    margin-left: 4.88vw;
+    margin-top: 0.4vh;
+}
+
+.song-time10 {
+    margin-left: 5.44vw;
+    margin-top: 0.4vh;
+}
+
+.play {
+    width: 2vw;
+    height: 4vh;
+    margin-top: 2.6vh;
+    margin-left: 0.1vw;
+    cursor: pointer; 
+}
+
+.song-list2 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 13.5vh;
+    margin-left: 1vw;
+}
+
+.song-list3 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 19.4vh;
+    margin-left: 1vw;
+}
+
+.song-list4 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 25.4vh;
+    margin-left: 1vw;
+}
+
+.song-list5 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 31.5vh;
+    margin-left: 1vw;
+}
+
+.song-list6 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 37.5vh;
+    margin-left: 1vw;
+}
+
+.song-list7 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 43.7vh;
+    margin-left: 1vw;
+}
+
+.song-list8 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 50vh;
+    margin-left: 1vw;
+}
+
+.song-list9 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 56.2vh;
+    margin-left: 1vw;
+}
+
+.song-list10 {
+    width: 22vw;
+    height: 4.5vh;
+    background-color: white;
+    position: absolute;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 62.5vh;
+    margin-left: 1vw;
+}
+
+.play-icon {
+    margin-left: 47vw;
+    margin-top: 2.5vh;
+    font-size: 1.7vw;
+    cursor: pointer;
+}
+
+@media (max-width:600px) {
+    .logo {
+        width: 30px;
+        height: 27px;
+    }
+    .spotify {
+        margin-left: 8vw;
+        font-size: 15px;
+    }
+    .Home {
+        font-size: 13px;
+        margin-left: 18vw;
+    }
+    .About {
+        font-size: 13px;
+    }
+    .music-head {
+        font-size: 10px;
+    }
+    .song-list1 {
+        width: 42vw;
+        margin-top: 5.2vh;
+        height: 3.7vh;
+    }
+    .song-list2 {
+        width: 42vw;
+        margin-top: 10vh;
+        height: 3.7vh;
+    }
+    .song-list3 {
+        width: 42vw;
+        margin-top: 15vh;
+        height: 3.7vh;
+    }
+    .song-list4 {
+        width: 42vw;
+        margin-top: 20vh;
+        height: 3.7vh;
+    }
+    .song-list5 {
+        width: 42vw;
+        margin-top: 25vh;
+        height: 3.7vh;
+    }
+    .song-list6 {
+        width: 42vw;
+        margin-top: 30vh;
+        height: 3.7vh;
+    }
+    .song-list7 {
+        width: 42vw;
+        margin-top: 35vh;
+        height: 3.7vh;
+    }
+    .song-list8 {
+        width: 42vw;
+        margin-top: 40vh;
+        height: 3.7vh;
+    }
+    .song-list9 {
+        width: 42vw;
+        margin-top: 45vh;
+        height: 3.7vh;
+    }
+    .song-list10 {
+        width: 42vw;
+        margin-top: 50vh;
+        height: 3.7vh;
+    }
+    .music-img1 {
+        width: 3.7vw;
+        height: 2.7vh;
+    }
+    .imge-text {
+        font-size: 7.3px;
+        position: absolute;
+        margin-left: 6.5vw;
+    }
+    .song-time1 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time2 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time3 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time4 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time5 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time6 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time7 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time8 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time9 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .song-time10 {
+        font-size: 7px;
+        margin-left: 27.5vw;
+    }
+    .play {
+        font-size: 6px;
+    }
+    .line {
+        height: 4px;
+    }
+    .play-icon {
+        font-size: 12px;
+        margin-left: 43.5vw;
+    }
+    
+    
+}

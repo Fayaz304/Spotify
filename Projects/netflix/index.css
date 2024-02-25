@@ -1,0 +1,463 @@
+.bakground {
+    background-image: url(fayaz.png);
+    height: 766px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head {
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 300px;
+}
+.paragraph {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondparagraph {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+input[type=text] {
+    margin-left: 37rem;
+    height: 3rem;
+    width: 23rem;
+    color: white;
+    background-color: black;
+    color: inherit;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    padding-top: 8px;
+    border-radius: 5px;
+    border-color: rgb(148, 139, 139);
+    border-width: 1px;
+
+}
+.started {
+    font-size: 1.5rem;
+    background-color: rgb(229, 9, 20);
+    color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-top: 3px;
+    font-weight: 500;
+    height: 3.6rem;
+    width: 12rem;
+    border-radius: 5px;
+    border: 2px rgb(229, 9, 20);
+    cursor: pointer;
+}
+.netion {
+    padding-left: 0.7rem;
+    font-size: 2rem;
+}
+.started:hover {
+    background-color: rgb(187, 19, 19);
+}
+.firstline {
+    background-color: rgb(35, 35, 35);
+    height: 0.5rem;
+}
+.firstscreen {
+    height: 40rem;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.secondline {
+    background-color: rgb(35, 35, 35);
+    height: 0.5rem;
+}
+.secondscreen {
+    height: 40rem;
+    background-color: black;
+}
+
+
+.thirdline {
+    background-color: rgb(35, 35, 35);
+    height: 0.5rem;
+}
+.thirdscreen {
+    height: 30rem;
+    background-color: black;
+}
+
+
+.fourthline {
+    background-color: rgb(35, 35, 35);
+    height: 0.5rem;
+}
+.fourthscreen {
+    height: 40rem;
+    background-color: black;
+}
+.fifthline {
+    background-color: rgb(35, 35, 35);
+    height: 0.5rem;
+}
+.fifthscreen {
+    background-color: black;
+    height: 1px;
+}
+
+.sixthscreen {
+    height: 58rem;
+    background-color: black;
+}
+
+
+.seventhline {
+    height: 0.5rem;
+    background-color: rgb(35, 35, 35);
+}
+.seventhscreen {
+    height: 35rem;
+    background-color: black;
+}
+
+
+.firstwriteing {
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12rem;
+    
+}
+
+.typeoffirstwriteing {
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12rem;
+}
+.firstborder {
+    padding-top: 16rem;
+}
+.secondwriteing {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    color: white;
+    font-weight: 900;
+    margin-left: 55rem;
+}
+.typeofsecondwriteing {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55rem;
+}
+.secondborder {
+    padding-top: 12rem;
+}
+.thirdwriteing {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: white;
+    margin-left: 30rem;
+}
+.typeofthirdwriteing {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: white;
+    margin-left: 30rem;
+}
+.thirdborder {
+    padding-top: 7rem;
+}
+.fourthwriteing {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: white;
+    margin-left: 53rem;
+    width: 45rem;padding-top: 18rem;
+}
+.typeoffourthwriteing {
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 53rem;
+    font-weight: 500;
+}
+.fourthborder {
+    width: 100rem;
+    height: 40rem;
+}
+.fifthwriteing {
+    font-size: 2.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: white;
+    padding-top: 3rem;
+    display: block;
+}
+.anotherform {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 65rem;
+    margin-top: 1rem;
+    
+}
+.jan {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 56rem;
+    margin-top: 1rem;
+}
+.koko {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 62.2rem;
+    margin-top: 1rem;
+}
+.danjer {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 63.7rem;
+    margin-top: 1rem;
+}
+.metal {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 56.7rem;
+    margin-top: 1rem;
+}
+.lala {
+    width: 87rem;
+    background-color: rgb(34, 32, 32);
+    height: 4.8rem;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 60.4rem;
+    margin-top: 1rem;
+}
+.h2head {
+    color: white;
+    font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-left: 27rem;
+    
+}
+.anotherstarted {
+    font-size: 1.5rem;
+    background-color: rgb(229, 9, 20);
+    color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-top: 5px;
+    font-weight: 500;
+    height: 3.6rem;
+    width: 12rem;
+    border-radius: 5px;
+    border: 2px rgb(229, 9, 20);
+}
+.anotherstarted:hover {
+    background-color: rgb(187, 19, 19);
+}
+
+.link {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkborder {
+    width: 30rem;
+    height: 30rem;
+    padding-top: 5rem;
+}
+.firstlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fourthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkhead {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondlinkborder {
+    width: 18rem;
+    height: 20rem;
+    margin-left: 35rem;
+    margin-top: -23rem;
+    padding-top: 3rem;
+}
+.fifthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.sixthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.seventhlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.eightlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.thirdlinkborder {
+    width: 18rem;
+    height: 20rem;
+    margin-left: 58rem;
+    margin-top: -20rem;
+}
+.ninthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.tenthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.eleventhlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.twelthlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.fourthlinkborder {
+    width: 18rem;
+    height: 20rem;
+    margin-left: 81rem;
+    margin-top: -20rem;
+}
+.thirteenlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.fourteenlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.fifteenlink {
+    color: rgb(161, 155, 155);
+    font-size: 1rem;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15rem;
+}
+.english {
+    color: rgb(161, 155, 155);
+    background-color: black;
+    margin-left: 10rem;
+    height: 2.3rem;
+    width: 10rem;
+}
+.anotherform:hover {
+    background-color: rgb(20, 20, 20);
+}
+.jan:hover {
+    background-color: rgb(20, 20, 20);
+}
+.koko:hover {
+    background-color: rgb(20, 20, 20);
+}
+.danjer:hover {
+    background-color: rgb(20, 20, 20);
+}
+.metal:hover {
+    background-color: rgb(20, 20, 20);
+}
+.lala:hover {
+    background-color: rgb(20, 20, 20);
+}

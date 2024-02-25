@@ -1,0 +1,190 @@
+* {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+
+}
+.clock {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    box-shadow: 5px 10px 7px 10px rgba(85, 85, 85, 1);
+}
+
+.one {
+    background: transparent;
+    margin-left: 175px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.two {
+    background: transparent;
+    margin-left: 210px;
+    margin-top: 18px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.three {
+    background: transparent;
+    margin-left: 216px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.four {
+    background: transparent;
+    margin-left: 200px;
+    margin-top: 27px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.five {
+    background: transparent;
+    margin-left: 163px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.six {
+    background: transparent;
+    margin-left: 122px;
+    margin-top: -9px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.seven {
+    background: transparent;
+    margin-left: 76px;
+    margin-top: -36px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.eight {
+    background: transparent;
+    margin-left: 35px;
+    margin-top: -62px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nine {
+    background: transparent;
+    margin-left: 15px;
+    margin-top: -68px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ten {
+    background: transparent;
+    margin-left: 20px;
+    margin-top: -73px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.eleven {
+    background: transparent;
+    margin-left: 56px;
+    margin-top: -68px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tweleve {
+    background: transparent;
+    margin-left: 115px;
+    margin-top: -35px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(87, 87, 87);
+    border-radius: 50%;
+    margin-left: 112px;
+    margin-top: 80px;
+    animation-name: line;
+    animation-duration: 120s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: inherit;
+}
+.sec-line {
+    width: 90px;
+    height: 8px;
+    background-color: rgb(87, 87, 87);
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 5px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+@keyframes line {
+    from{transform: rotate(360);}
+    to{transform: rotate(600deg);}
+}
+
+
+
+.Fayaz {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    color: white;
+    margin-top: 10rem;
+    margin-left: 20rem;
+    animation-name: fayaz;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes fayaz {
+    from{margin-bottom: 10px;}
+    to{margin-top: 20px;}
+}
+
+.loader {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 15px solid rgb(37, 37, 37);
+    margin-top: 30rem;
+    margin-left: 60rem;
+    position: absolute;
+    border-top: 15px solid rgb(105, 105, 105);
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-timing-function: steps(40);
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes spin {
+    from{
+        transform: rotate(0deg);
+    }
+
+    to{
+        transform: rotate(360deg);
+    }
+}
+
